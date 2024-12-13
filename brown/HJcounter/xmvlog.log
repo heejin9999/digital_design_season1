@@ -1,0 +1,11 @@
+xmvlog(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmvlog(64)	23.03-s013: Started on Dec 05, 2024 at 22:41:09 KST
+xmvlog
+    -MESS
+    -linedebug
+    tb_chchcounter.v
+
+file: tb_chchcounter.v
+	module love_lib.tb_pipeline_counter
+		errors: 0, warnings: 0
+TOOL:	xmvlog(64)	23.03-s013: Exiting on Dec 05, 2024 at 22:41:09 KST  (total: 00:00:00)

@@ -1,0 +1,10 @@
+xmsim(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmsim(64)	23.03-s013: Started on Dec 05, 2024 at 22:37:09 KST
+xmsim
+    -MESS
+    tb_chchcounter
+    -gui
+
+xmsim: *W,NOMTDGUI: Multi-Threaded Dumping is disabled for interactive debug mode.
+xmsim: *F,NOSNAP: Snapshot 'tb_chchcounter' does not exist in the libraries.
+TOOL:	xmsim(64)	23.03-s013: Exiting on Dec 05, 2024 at 22:37:09 KST  (total: 00:00:00)

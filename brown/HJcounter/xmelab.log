@@ -1,0 +1,8 @@
+xmelab(64): 23.03-s013: (c) Copyright 1995-2024 Cadence Design Systems, Inc.
+TOOL:	xmelab(64)	23.03-s013: Started on Dec 05, 2024 at 22:42:14 KST
+xmelab
+    -MESS
+    -access tb_pipeline_counter
+
+xmelab: *F,MISLUN: missing top level module, design unit name..
+TOOL:	xmelab(64)	23.03-s013: Exiting on Dec 05, 2024 at 22:42:14 KST  (total: 00:00:00)
